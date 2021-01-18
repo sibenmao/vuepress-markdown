@@ -48,3 +48,6 @@ is maintained by the W3C. -->
 ![jordan](/assets/video/jordan.mp4)
 
  -->
+**片段引入**
+
+<<< @/docs/.vuepress/markdown/fragments/snippet.js
