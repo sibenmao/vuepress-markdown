@@ -76,10 +76,6 @@
 
 <font color=teal size=3>***青色3号字体加粗倾斜***</font>
 
-::: tip 提醒
-markdown 的文本字体，颜色，大小操作跟 `HTML` 一样麻烦。其实也不需要，因为它一开始就声明了：一种轻量级标记语言。
-:::
-
 ## 链接
 
 **行内**
@@ -116,7 +112,8 @@ C语言里的函数 `scanf()` 怎么使用？
         console.log('do something');
     }
     ```
-```
+
+``` 
 
 ``` js
 function handler() {
@@ -170,7 +167,7 @@ function handler() {
 `[[TOC]]` 可以识别当前 `md` 文档中所有标题类的语法标记。其实很多 `markdown` 编辑器中语法是 `[TOC]` 。
 :::
 
-## 分隔线
+## 分隔
 
 ``` md
 ---
